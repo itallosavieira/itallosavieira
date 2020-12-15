@@ -6,14 +6,14 @@
 I'm 25 years old, based in São Paulo. I worked as a developer in 2017 followed by 3 years on the entrepreneurship journey - an experience that taught me a lot - and now I'm back. I'm motivated by challenges and I've thirst for knowledge.<br><br>
 
 I found in the programming the synthesis of everything that keeps me motivated:
-  1.  Constant challenges;
-  2. An endless source of knowledge.
+  * Constant challenges;
+  * An endless source of knowledge.
 
 ### You can find me on
 
-[Linkedin](https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/) <br>
-[My site](https://itallosa.dev) <br>
-[Twitter](https://twitter.com/itallosavieira) <br>
+*[Linkedin](https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/) <br>
+*[My site](https://itallosa.dev) <br>
+*[Twitter](https://twitter.com/itallosavieira) <br>
 
 
 <!--
