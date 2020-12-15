@@ -9,7 +9,7 @@ I'm 25 years old, based in São Paulo. I worked as a developer in 2017 followed 
 I found in the programming the synthesis of everything that keeps me motivated:
   * Constant challenges;
   * An endless source of knowledge.
-
+<br>
 <h4 align="left">Hard Skills</h4>
 I'm familiar with HTML, CSS, JavaScript, Logic, Code versioning (Git), Sass, BEM, Command-Line, Template Engine (Nunjucks), and I understand English with tranquility, whether listening or reading.
 
