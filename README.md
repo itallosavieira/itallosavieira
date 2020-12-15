@@ -39,8 +39,10 @@ I try to maintain a balance between spiritual, mental, and physical health by de
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="30" height="30"/>  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>  
- <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>  
-
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>  
+<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>  
+<img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="30" height="30"/>  
+<img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="30" height="30"/>   
 </p>
 
 <!--
