@@ -9,20 +9,16 @@ I'm 25 years old, based in São Paulo. I worked as a developer in 2017 followed 
 I found in the programming the synthesis of everything that keeps me motivated:
   * Constant challenges;
   * An endless source of knowledge.
-<br>
 
 <h4 align="left">Hard Skills</h4>
 I'm familiar with HTML, CSS, JavaScript, Logic, Code versioning (Git), Sass, BEM, Command-Line, Template Engine (Nunjucks), and I understand English with tranquility, whether listening or reading.
-<br>
 
 <h4 align="left">Soft Skills</h4>
 I try to communicate clearly, I can learn something new easily, I am flexible according to the demands that arise, I can solve problems and I am disciplined in the pursuit of my goals.
-<br>
 
 <h4 align="left">Hobbies</h4>
 I try to maintain a balance between spiritual, mental, and physical health by dedicating myself to daily physical activities, playing my musical instruments, and taking time to read.
-<br><br>
-
+<br>
 
 <h4 align="center">You can find me on</h4>
 <p align="center">
