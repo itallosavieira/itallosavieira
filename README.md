@@ -41,7 +41,7 @@ I try to maintain a balance between spiritual, mental, and physical health by de
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="30" height="30"/>   
+<img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu.svg" alt="ubuntu" width="30" height="30"/>   
 </p>
 
 <!--
