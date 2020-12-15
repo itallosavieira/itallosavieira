@@ -36,7 +36,7 @@ I try to maintain a balance between spiritual, mental, and physical health by de
 
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/devicon-javascript-plain.svg" alt="react" width="30" height="0"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="0"/>
  </p>
 
 <!--
