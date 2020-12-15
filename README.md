@@ -11,9 +11,8 @@ I found in the programming the synthesis of everything that keeps me motivated:
 
 ### You can find me on
 
-*[Linkedin](https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/) <br>
-*[My site](https://itallosa.dev) <br>
-*[Twitter](https://twitter.com/itallosavieira) <br>
+* [Linkedin](https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/) <br>
+* [My Site](https://itallosa.dev) <br>
 
 
 <!--
