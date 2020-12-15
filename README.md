@@ -15,7 +15,7 @@ I found in the programming the synthesis of everything that keeps me motivated:
 I'm familiar with HTML, CSS, JavaScript, Logic, Code versioning (Git), Sass, BEM, Command-Line, Template Engine (Nunjucks), and I understand English with tranquility, whether listening or reading.
 <br>
 
-<h4 align="left">Spft Skills</h4>
+<h4 align="left">Soft Skills</h4>
 I try to communicate clearly, I can learn something new easily, I am flexible according to the demands that arise, I can solve problems and I am disciplined in the pursuit of my goals.
 <br>
 
@@ -24,22 +24,22 @@ I try to maintain a balance between spiritual, mental, and physical health by de
 <br>
 
 
-### You can find me on
 
-* [Linkedin](https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/) <br>
-* [My Site](https://itallosa.dev) <br>
+<h4 align="center">You can find me on</h4>
 
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-</p>
+[Linkedin](https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/)   •   [My Site](https://itallosa.dev) <br>
 
 <p align="center">
 <a href="https://codepen.io/itallosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://twitter.com/itallosavieira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://instagram.com/itallosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+</p>
+
+<p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
 
 
