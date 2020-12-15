@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello! I'm Itallo Sá</h1>
-<h3 align="center">A Front-End developer in constant development</h3>
+<h3 align="center">A Front-End Developer in constant development</h3>
 
 ---
 
