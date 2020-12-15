@@ -27,14 +27,8 @@ I try to maintain a balance between spiritual, mental, and physical health by de
 
 <h4 align="center">You can find me on</h4>
 
-[Linkedin](https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/)   •   [My Site](https://itallosa.dev) <br>
-
-<p align="center">
-<a href="https://codepen.io/itallosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://twitter.com/itallosavieira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/itallosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
-</p>
+<p align="center"> [Linkedin](https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/)  •  [itallosa.dev](https://itallosa.dev)  •  [Codepen](https://codepen.io/itallosa)  •  [Instagram](https://instagram.com/itallosa)  •  [Twitter](https://twitter.com/itallosavieira)</p>
+<br><br>
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
