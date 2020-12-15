@@ -1,13 +1,13 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! My name is Itallo Sá and I'm 25 years old.<br><br>
-
-I worked as a developer in 2017 followed by 3 years on the entrepreneurship journey - an experience that taught me a lot - and now I'm back.<br><br>
-I'm motivated by challenges and I've thirst for knowledge.<br><br>
-I found in the programming the synthesis of everything that keeps me motivated:<br> 1. Constant challenges;<br> 2. An endless source of knowledge.
+<h1 align="center">Hello! 👋, I'm Itallo Sá</h1>
+<h3 align="center">A Front-End developer in constant development</h3>
 
 ---
 
-💻 Front-End developer in development <br>
-🏡 Brazilian, Based in São Paulo, SP
+I'm 25 years old, based in São Paulo. I worked as a developer in 2017 followed by 3 years on the entrepreneurship journey - an experience that taught me a lot - and now I'm back. I'm motivated by challenges and I've thirst for knowledge.<br><br>
+
+I found in the programming the synthesis of everything that keeps me motivated:
+  1.  Constant challenges;
+  2. An endless source of knowledge.
 
 ### You can find me on
 
