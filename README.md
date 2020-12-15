@@ -21,17 +21,23 @@ I try to communicate clearly, I can learn something new easily, I am flexible ac
 
 <h4 align="left">Hobbies</h4>
 I try to maintain a balance between spiritual, mental, and physical health by dedicating myself to daily physical activities, playing my musical instruments, and taking time to read.
-<br>
+<br><br>
+
 
 <h4 align="center">You can find me on</h4>
 <p align="center">
         <a href="https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/" target="_blank">Linkedin</a>   •   
-        <a href="itallosa.dev" target="_blank">itallosa.dev/</a>   •   
+        <a href="itallosa.dev" target="_blank">My Site</a>   •   
         <a href="https://twitter.com/itallosavieira target="_blank"">Twitter</a>   •   
         <a href="https://instagram.com/itallosa target="_blank"">Instagram</a>   •   
         <a href="https://codepen.io/itallosa" target="_blank">Codepen</a>
 </p>
+<br><br>
 
+
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/devicon-javascript-plain.svg" alt="react" width="30" height="0"/>
+ </p>
 
 <!--
 **itallosavieira/itallosavieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
