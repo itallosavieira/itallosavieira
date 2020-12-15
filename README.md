@@ -23,13 +23,7 @@ I try to communicate clearly, I can learn something new easily, I am flexible ac
 I try to maintain a balance between spiritual, mental, and physical health by dedicating myself to daily physical activities, playing my musical instruments, and taking time to read.
 <br>
 
-
-
 <h4 align="center">You can find me on</h4>
-
-<p align="center"> [Linkedin](https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/)  •  [itallosa.dev](https://itallosa.dev)  •  [Codepen](https://codepen.io/itallosa)  •  [Instagram](https://instagram.com/itallosa)  •  [Twitter](https://twitter.com/itallosavieira)</p>
-<br><br>
-
 <p align="center">
         <a href="https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/" target="_blank">Linkedin</a>   •   
         <a href="itallosa.dev" target="_blank">itallosa.dev/</a>   •   
