@@ -31,9 +31,11 @@ I try to maintain a balance between spiritual, mental, and physical health by de
 <br><br>
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+        <a href="https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/" target="_blank">Linkedin</a>   •   
+        <a href="itallosa.dev" target="_blank">itallosa.dev/</a>   •   
+        <a href="https://twitter.com/itallosavieira target="_blank"">Twitter</a>   •   
+        <a href="https://instagram.com/itallosa target="_blank"">Instagram</a>   •   
+        <a href="https://codepen.io/itallosa" target="_blank">Codepen</a>
 </p>
 
 
