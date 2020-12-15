@@ -22,8 +22,8 @@ I try to maintain a balance between spiritual, mental, and physical health by de
 <p align="center">
         <a href="https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/" target="_blank">Linkedin</a>   •   
         <a href="itallosa.dev" target="_blank">My Site</a>   •   
-        <a href="https://twitter.com/itallosavieira target="_blank"">Twitter</a>   •   
-        <a href="https://instagram.com/itallosa target="_blank"">Instagram</a>   •   
+        <a href="https://twitter.com/itallosavieira" target="_blank">Twitter</a>   •   
+        <a href="https://instagram.com/itallosa" target="_blank">Instagram</a>   •   
         <a href="https://codepen.io/itallosa" target="_blank">Codepen</a>
 </p>
 <br><br>
