@@ -20,7 +20,7 @@ I try to maintain a balance between spiritual, mental, and physical health by de
 
 <h4 align="center">You can find me on</h4>
 <p align="center">
-        <a href="https://www.linkedin.com/in/itallo-s%C3%A1-vieira-06b86611a/" target="_blank">Linkedin</a>   •   
+        <a href="https://www.linkedin.com/in/itallosavieira" target="_blank">Linkedin</a>   •   
         <a href="https://itallosa.dev" target="_blank">My Site</a>   •   
         <a href="https://twitter.com/itallosavieira" target="_blank">Twitter</a>   •   
         <a href="https://instagram.com/itallosa" target="_blank">Instagram</a>   •   
