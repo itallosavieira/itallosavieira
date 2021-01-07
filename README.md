@@ -9,7 +9,12 @@ I found in the programming the synthesis of everything that keeps me motivated:
   * An endless source of knowledge.
 
 <h4 align="left">Hard Skills</h4>
-I'm familiar with HTML, CSS, JavaScript, Logic, Code versioning (Git), Sass, BEM, Command-Line, Template Engine (Nunjucks), and I understand English with tranquility, whether listening or reading.
+I'm familiar with:
+  * HTML
+  * CSS
+  * JavaScript
+  * Code versioning (Git)
+  * English
 
 <h4 align="left">Soft Skills</h4>
 I try to communicate clearly, I can learn something new easily, I am flexible according to the demands that arise, I can solve problems and I am disciplined in the pursuit of my goals.
@@ -27,16 +32,6 @@ I try to maintain a balance between spiritual, mental, and physical health by de
         <a href="https://codepen.io/itallosa" target="_blank">Codepen</a>
 </p>
 <br><br>
-
-
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="30" height="30"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>  
-<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/>   
-</p>
 
 <!--
 **itallosavieira/itallosavieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
