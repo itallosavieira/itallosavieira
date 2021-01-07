@@ -10,8 +10,7 @@ I found in the programming the synthesis of everything that keeps me motivated:
  * An endless source of knowledge.
 
 <h4 align="left">Hard Skills</h4>
-I'm familiar with:
-
+I'm familiar with: <br>
 
  * HTML;
  * CSS:
