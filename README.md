@@ -5,18 +5,18 @@
 I'm 25 years old, based in São Paulo. I worked as a developer in 2017 followed by 3 years on the entrepreneurship journey - an experience that taught me a lot - and now I'm back. I'm motivated by challenges and I've thirst for knowledge.<br><br>
 
 I found in the programming the synthesis of everything that keeps me motivated:
-  * Constant challenges;
-  * An endless source of knowledge.
+ * Constant challenges;
+ * An endless source of knowledge.
 
 <h4 align="left">Hard Skills</h4>
 I'm familiar with:
-  * HTML;
-  * CSS:
-    * Sass, Styled Components;
-  * JavaScript:
-    * Logic, ES6+, React, Gatsby.js;
-  * Code versioning (Git)
-  * English
+ * HTML;
+ * CSS:
+  * Sass, Styled Components;
+ * JavaScript:
+  * Logic, ES6+, React, Gatsby.js;
+ * Code versioning (Git)
+ * English
 
 
 <h4 align="left">Soft Skills</h4>
