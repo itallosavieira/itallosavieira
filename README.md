@@ -12,6 +12,7 @@ I found in the programming the synthesis of everything that keeps me motivated:
 <h4 align="left">Hard Skills</h4>
 I'm familiar with:
 
+
  * HTML;
  * CSS:
    * Sass, Styled Components;
