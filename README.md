@@ -14,9 +14,9 @@ I'm familiar with:
 
  * HTML;
  * CSS:
-  * Sass, Styled Components;
+   * Sass, Styled Components;
  * JavaScript:
-  * Logic, ES6+, React, Gatsby.js;
+   * Logic, ES6+, React, Gatsby.js;
  * Code versioning (Git)
  * English
 
