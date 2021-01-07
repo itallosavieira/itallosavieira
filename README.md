@@ -10,11 +10,14 @@ I found in the programming the synthesis of everything that keeps me motivated:
 
 <h4 align="left">Hard Skills</h4>
 I'm familiar with:
-  * HTML
-  * CSS
-  * JavaScript
+  * HTML;
+  * CSS:
+    * Sass, Styled Components;
+  * JavaScript:
+    * Logic, ES6+, React, Gatsby.js;
   * Code versioning (Git)
   * English
+
 
 <h4 align="left">Soft Skills</h4>
 I try to communicate clearly, I can learn something new easily, I am flexible according to the demands that arise, I can solve problems and I am disciplined in the pursuit of my goals.
