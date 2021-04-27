@@ -20,14 +20,6 @@ I'm familiar with: <br><br>
  * Code versioning (Git)
  * English
 
-
-<h4 align="left">Soft Skills</h4>
-I try to communicate clearly, I can learn something new easily, I am flexible according to the demands that arise, I can solve problems and I am disciplined in the pursuit of my goals.
-
-<h4 align="left">Hobbies</h4>
-I try to maintain a balance between spiritual, mental, and physical health by dedicating myself to daily physical activities, playing my musical instruments, and taking time to read.
-<br>
-
 <h4 align="center">You can find me on</h4>
 <p align="center">
         <a href="https://www.linkedin.com/in/itallosavieira" target="_blank">Linkedin</a>   •   
