@@ -10,7 +10,7 @@ I'm a developer who loves **HTML, CSS, and JS**. And did some projects with Reac
 </p>
 <br>
 
-- 🌱 I am currently studying C to learn how languages work under the hood so I can learn to use high-level tools more easily.
+🌱 I am currently studying C to learn how languages work under the hood so I can learn to use high-level tools more easily.
 
 <h4 align="center">You can find me on</h4>
 <p align="center">
