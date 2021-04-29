@@ -6,18 +6,17 @@ I'm 25 years old, based in São Paulo. I worked as a Front-End Developer in 2017
 
 I found in the programming the synthesis of everything that keeps me motivated: constant challenges and an endless source of knowledge.
 
-I'm a developer who loves **HTML, CSS, and JS**. And did some projects with React and Next.js.
+I'm a guy who loves **HTML, CSS, and JS**. And did some projects with React and Next.js.
 </p>
 <br>
 
-🌱 I am currently studying C to learn how languages work under the hood so I can learn to use high-level tools more easily.
+🌱 I'm currently studying C to learn how languages work under the hood so I can learn to use high-level tools more easily.
 
 <h4 align="center">You can find me on</h4>
 <p align="center">
         <a href="https://www.linkedin.com/in/itallosavieira" target="_blank">Linkedin</a>   •   
         <a href="https://itallosa.dev" target="_blank">My Site</a>   •   
         <a href="https://twitter.com/itallosavieira" target="_blank">Twitter</a>   •   
-        <a href="https://instagram.com/itallosa" target="_blank">Instagram</a>   •   
-        <a href="https://codepen.io/itallosa" target="_blank">Codepen</a>
+        <a href="https://instagram.com/itallosa" target="_blank">Instagram</a>
 </p>
 <br>
