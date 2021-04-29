@@ -13,14 +13,13 @@ I'm a guy who loves **HTML, CSS, and JS**. And did some projects with React and 
 🌱 I'm currently studying C to learn how languages work under the hood so I can learn to use high-level tools more easily.
 
 <h4 align="left">You can find me on</h4>
-<p align="left">
-        <h3>Linkedin:</h3><br>
+        Linkedin:
         <a href="https://www.linkedin.com/in/itallosavieira" target="_blank">linkedin.com/in/itallosavieira/</a><br>
-        <h3>Site:</h3><br>
+        Site:
         <a href="https://itallosa.dev" target="_blank">itallosa.dev/</a><br>
-        <h3>Twitter:</h3><br>
+        Twitter:
         <a href="https://twitter.com/itallosavieira" target="_blank">twitter.com/itallosavieira"</a><br>
-        <h3>Instagram:</h3><br>
+        Instagram:
         <a href="https://instagram.com/itallosa" target="_blank">Instagram</a>
-</p>
+
 <br>
