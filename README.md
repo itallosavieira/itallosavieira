@@ -1,24 +1,14 @@
-<h1 align="center">👋 Hello! I'm Itallo Sá</h1>
-<h4 align="center">A Front-End Developer in constant development</h4>
+<h1 align="center">👋 Hey! I'm Itallo Sá</h1>
+<h3 align="center">A Front-End Developer in constant development</h3>
 
 <h4 align="left">About</h4>
-I'm 25 years old, based in São Paulo. I worked as a developer in 2017 followed by 3 years on the entrepreneurship journey - an experience that taught me a lot - and now I'm back. I'm motivated by challenges and I've thirst for knowledge.<br><br>
 
-I found in the programming the synthesis of everything that keeps me motivated:
+I'm 25 years old, based in São Paulo. I worked as a Front-End Developer in 2017 followed by 3 years on the entrepreneurship journey - an experience that taught me a lot - and now I'm back. I'm motivated by challenges and I've thirst for knowledge.
 
- * Constant challenges;
- * An endless source of knowledge.
+I found in the programming the synthesis of everything that keeps me motivated: constant challenges and an endless source of knowledge.
 
-<h4 align="left">Hard Skills</h4>
-I'm familiar with: <br><br>
-
- * HTML;
- * CSS:
-   * Sass, Styled Components;
- * JavaScript:
-   * Logic, ES6+, React, Gatsby.js;
- * Code versioning (Git)
- * English
+I'm a developer who loves HTML, CSS, and JS. And did some projects with React and Next.js.
+</h4>
 
 <h4 align="center">You can find me on</h4>
 <p align="center">
