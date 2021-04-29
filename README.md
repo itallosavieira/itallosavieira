@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hey! I'm Itallo Sá</h2>
 <h3 align="center">A Front-End Developer in constant development</h3>
 
-<h5 align="center">
+<h5 align="center" max-width="50px">
 I'm 25 years old, based in São Paulo. I worked as a Front-End Developer in 2017 followed by 3 years on the entrepreneurship journey - an experience that taught me a lot - and now I'm back. I'm motivated by challenges and I've thirst for knowledge.
 
 I found in the programming the synthesis of everything that keeps me motivated: constant challenges and an endless source of knowledge.
