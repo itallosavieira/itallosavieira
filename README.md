@@ -14,14 +14,9 @@ I'm a guy who loves **HTML, CSS, and JS**. And did some projects with React and 
 
 Site:
 <a href="https://itallosa.dev" target="_blank">itallosa.dev/</a><br>
-
 Linkedin:
 <a href="https://www.linkedin.com/in/itallosavieira" target="_blank">@tallosavieira</a><br>
-
 Twitter:
 <a href="https://twitter.com/itallosavieira" target="_blank">@itallosavieira</a><br>
-
 Instagram:
 <a href="https://instagram.com/itallosa" target="_blank">@itallosa</a>
-
-<br>
