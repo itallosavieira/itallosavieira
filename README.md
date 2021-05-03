@@ -18,7 +18,7 @@ Site:
 Email:
 <a mailto="hi@itallosa.dev" target="_blank">hi@itallosa.dev/</a><br>
 Linkedin:
-<a href="https://www.linkedin.com/in/itallosavieira" target="_blank">@tallosavieira</a><br>
+<a href="https://www.linkedin.com/in/itallosavieira" target="_blank">@itallosavieira</a><br>
 Twitter:
 <a href="https://twitter.com/itallosavieira" target="_blank">@itallosavieira</a><br>
 Instagram:
